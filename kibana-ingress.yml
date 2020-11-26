@@ -8,5 +8,5 @@ spec:
       paths:
       - path: /
         backend:
-          serviceName: kibana-1606407107-kibana
+          serviceName: 'put actual service name here'
           servicePort: 5601
